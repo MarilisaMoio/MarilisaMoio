@@ -27,3 +27,10 @@ Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+***
+
+<div align="center">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarilisaMoio"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarilisaMoio&label=visitors&countColor=%232ccce4&style=plastic" /></a>
+</div>
