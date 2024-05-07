@@ -33,5 +33,6 @@ Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old 
 ***
 
 <div align="center">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarilisaMoio"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarilisaMoio&label=visitors&countColor=%232ccce4&style=plastic" /></a>
+    <img src="https://komarev.com/ghpvc/?username=MarilisaMoio&color=c93c80&label=Profile+hits+&base=900&style=flat">
+    <img src="https://hit.yhype.me/github/profile?user_id=154764280">
 </div>
