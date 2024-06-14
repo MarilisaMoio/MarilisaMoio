@@ -14,12 +14,9 @@ Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-...I'll soon start to learn:
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ...I'd like to try in the near future:
 
@@ -33,6 +30,7 @@ Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old 
 ***
 
 <div align="center">
+    <!-- base=900 in the next badge because for the first months I used another badge for counting views -->
     <img src="https://komarev.com/ghpvc/?username=MarilisaMoio&color=c93c80&label=Profile+hits+&base=900&style=flat">
     <img src="https://hit.yhype.me/github/profile?user_id=154764280">
 </div>
