@@ -32,5 +32,6 @@ Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old 
 <div align="center">
     <!-- base=900 in the next badge because for the first months I used another badge for counting views -->
     <img src="https://komarev.com/ghpvc/?username=MarilisaMoio&color=c93c80&label=Profile+hits+&base=900&style=flat">
+    <a href="https://www.linkedin.com/in/marilisa-moio-6490b8314/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
     <img src="https://hit.yhype.me/github/profile?user_id=154764280">
 </div>
