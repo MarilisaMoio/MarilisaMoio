@@ -1,6 +1,6 @@
 # Hiya, I'm Marilisa! <img src="picardia-thumbsup.gif" width="50px"> 
 
-Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old trying to find ~~a meaning to this dreadful life~~ something nice to do on a daily basis. At present I'm a <img src="boolean-logo.png" width="12px">Boolean student.
+Based in Italy and started to code at <em>a-quarter-of-a-century</em> years old trying to find ~~a meaning to this dreadful life~~ something nice to do on a daily basis.
 
 ### Technologies...
 
